@@ -1,0 +1,11 @@
+Q. What happens when you initialize a repository? Why do you need to do it?	A:
+A:
+initializing a new repository, creates a new .git folder in the wd, and thus we 	can use it to obtain various versions using commit 
+the folder needs to be a git type, so as to enable it to store chnages
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:
+staging area is the prestage of a new commit that is to be made
+working directory is the present state and location of the directory
+repository is the set of complete files with the .git state
+it offers us the flexibility to only commit some changes as we would like
