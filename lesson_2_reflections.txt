@@ -16,5 +16,8 @@ Q.	What are some situations when branches would be helpful in keeping your histo
 A:	where many ppl work simultaneously, where u have multiple work, etc
 branches can help to parallelise the work, faster more efficient work
 
+Q.	How do the diagrams help you visualize the branch structure?	
+A:	since it shows non linear property we can use diagrams to easily show th various relationship betwenn all of them
+thses drawing are immensely important when we want to find out the reachablity and head, master realtions
 
 
