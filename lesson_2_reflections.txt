@@ -1,11 +1,20 @@
-Q. What happens when you initialize a repository? Why do you need to do it?	A:
-A:
-initializing a new repository, creates a new .git folder in the wd, and thus we 	can use it to obtain various versions using commit 
+Q.	What happens when you initialize a repository? Why do you need to do it?	A:
+A:	initializing a new repository, creates a new .git folder in the wd, and thus we can use it to obtain various versions using commit 
 the folder needs to be a git type, so as to enable it to store chnages
 
-Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
-A:
-staging area is the prestage of a new commit that is to be made
+Q. 	How is the staging area different from the working directory and the repository? What value do you think it offers?
+A:	staging area is the prestage of a new commit that is to be made
 working directory is the present state and location of the directory
 repository is the set of complete files with the .git state
 it offers us the flexibility to only commit some changes as we would like
+
+Q.	How can you use the staging area to make sure you have one commit per logical change?
+A:	i can only add parts of my files into my staging area and then commit all my stages as i wish
+thus i can make as many changes in my working directory but only my staging area gets committed
+
+Q.	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A:	where many ppl work simultaneously, where u have multiple work, etc
+branches can help to parallelise the work, faster more efficient work
+
+
+

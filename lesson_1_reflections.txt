@@ -23,3 +23,8 @@ Q:	How can you use the commands git log and git diff to view the history of file
 
 Q:	How might using version control make you more confident to make changes that could break something?
 I can make changes as i like, cause i always have the details of all the changes i have made, and the possibliy of reverting back to a stable version also exists.
+
+Q:	Now that you have your workspace set up, what do you want to try using Git for?
+To be able to contibute in projects 
+Work in web projects, open source projects
+Maybe even land a job using gsoc (in google "not my dream company... cause its samsung") who knows
