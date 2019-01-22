@@ -1,1 +1,4 @@
 
+Q.  When would you want to use a remote repository rather than keeping all your work local?
+A.  When the team is disintegrated, and work is distributed.
+    Can also be useful when need a hosting site for free. (:<>)
