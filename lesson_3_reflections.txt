@@ -2,3 +2,12 @@
 Q.  When would you want to use a remote repository rather than keeping all your work local?
 A.  When the team is disintegrated, and work is distributed.
     Can also be useful when need a hosting site for free. (:<>)
+
+Q.	Why might you want to always pull changes manually rather than having Git automatically
+	stay up-to-date with your remote repository?
+A.	If we are working on a particular need for an older demand, we may require the system to 
+	not be updated as needed. We will not be able to work on it as we wish, which will be very
+	discomforting at the least.
+	The ability to update as we want, is very available thus useful.
+
+Q.	
