@@ -20,4 +20,10 @@ Q.	How do the diagrams help you visualize the branch structure?
 A:	since it shows non linear property we can use diagrams to easily show th various relationship betwenn all of them
 thses drawing are immensely important when we want to find out the reachablity and head, master realtions
 
+Q.	What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A:	the sum total changes of both of them.
+cause that is what we are doing, adding two branches together with their commom stuff .
 
+Q.	What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A:	pro : faster, easier
+	con : error, not doing as i want
